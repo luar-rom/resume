@@ -1,4 +1,23 @@
-<h1>Raúl Romero</h1>
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Raul Romero</title>
+    <style>
+        table,
+        div {
+            border: 1px solid black;
+        }
+        .one {
+            border: 1px solid rgb(148, 29, 29);
+        }
+        tfoot{background-color: aqua;}
+        tbody{background-color: rgb(60, 172, 45);}
+    </style>
+</head>
+
+<body>
+    <h1>Raúl Romero</h1>
     <hr>
     <a href="https://twitter.com/raul_rope" target="_blank">
         <img src="https://pbs.twimg.com/profile_images/2698290200/23794e9e0d46d0955459d83f171c7302_400x400.jpeg"
@@ -63,3 +82,7 @@
 
 
 
+
+</body>
+
+</html>
